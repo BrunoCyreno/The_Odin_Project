@@ -1,0 +1,27 @@
+body { 
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    text-align: justify;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+img {
+    height: 400px;
+    width: auto;
+    background-color: rgba(204,149,67,255);
+    margin-left: 10px;
+}
+
+h1{
+    text-align: center;
+    background-color: rgba(204,149,67,255);
+}
+h2 {
+    color: rgba(204,149,67,255);
+}
+a {
+    color: rgba(204,149,67,255);
+    font-weight: bold;
+    font-size: small;
+}
